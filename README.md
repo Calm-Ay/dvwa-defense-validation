@@ -67,4 +67,4 @@ DVWA provides multiple security levels. This report covers validation across:
 **Rasaq Ayomide**
 Security Researcher | Defensive Security Analyst
 - GitHub: [@Calm-Ay](https://github.com/Calm-Ay)
-- Email: 210804102@live.unilag.edu.ng
+- Email: ayomiderasq6@gmail.com
