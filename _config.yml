@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+title: "DVWA Defense Validation"
+description: "Defense validation report for DVWA — testing security controls effectiveness across SQL injection, XSS, CSRF, command injection, and file upload vulnerabilities."
